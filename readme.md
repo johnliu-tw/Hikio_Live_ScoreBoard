@@ -5,14 +5,14 @@
 林明憲 | 3
 林庭寬 | 1
 許炘幃 | 3
-Chen | 6
+Chen | 7
 Grayson | 6 
 Hans | 13
 ichun | 4
 Justin | 1
 Lao | 1
 Lin | 1
-Rock alen | 4
+Rock alen | 7
 Shiva | 2
 Tendollar | 1
 weiwei | 1
