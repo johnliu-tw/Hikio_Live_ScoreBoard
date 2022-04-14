@@ -4,12 +4,12 @@
 --------------|:-----:|
 林明憲 | 3
 林庭寬 | 1
-許炘幃 | 3
-Chen | 7
+許炘幃 | 4
+Chen | 8
 Grayson | 6 
-Hans | 13
+Hans | 15
 ichun | 4
-Justin | 1
+Justin | 2
 Lao | 1
 Lin | 1
 Rock alen | 7
