@@ -16,6 +16,7 @@ Rock alen | 7
 Shiva | 2
 Tendollar | 1
 weiwei | 1
+allen | 4
 
 
 ### 有獎徵答獎品紀錄
