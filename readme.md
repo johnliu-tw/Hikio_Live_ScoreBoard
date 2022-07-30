@@ -7,12 +7,12 @@
 許炘幃 | 4
 Chen | 8
 Grayson | 6 
-Hans | 15
+Hans | 16
 ichun | 4
 Justin | 2
 Lao | 1
 Lin | 1
-Rock alen | 7
+Rock alen | 8
 Shiva | 2
 Tendollar | 1
 weiwei | 1
